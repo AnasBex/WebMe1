@@ -8,7 +8,7 @@
 
 	$emailAccount = "microwavecybernet@gmail.com";
 
-	$site_db_link = "localhost";
+	$site_db_link = "https://gonime.herokuapp.com/Data.sql";
 	$site_db_user = "database";
 	$site_db_pass = '';
 	$site_db_db = "database";
