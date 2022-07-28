@@ -2,13 +2,13 @@
     session_start();
     $style_version = '?v=5';
 
-	$site_link = "http://domain";
-	$site_title = "AnimeMoon";
-	$site_main_contact = "oldadmin@example.com";
+	$site_link = "https://gonime.herokuapp.com";
+	$site_title = "GoNime";
+	$site_main_contact = "microwavecybernet@gmail.com";
 
-	$emailAccount = "example@domain.com";
+	$emailAccount = "microwavecybernet@gmail.com";
 
-	$site_db_link = "localhost";
+	$site_db_link = "https://gonime.herokuapp.com/db.sql";
 	$site_db_user = "database";
 	$site_db_pass = '';
 	$site_db_db = "database";
